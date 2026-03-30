@@ -1,4 +1,4 @@
-# user_checker
+# UserFind
 Python script for check if user have an account on multi website
 
 Some false positives so the script takes screenshots of each site to have the user register.
